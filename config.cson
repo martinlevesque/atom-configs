@@ -1,0 +1,18 @@
+"*":
+  core:
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 23
+  "exception-reporting":
+    userId: "b32d7469-d738-4b92-954b-80dd01f486c8"
+  "git-blame":
+    columnWidth: 483
+  "linter-ui-default":
+    showPanel: true
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
